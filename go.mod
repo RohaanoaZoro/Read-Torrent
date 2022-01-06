@@ -1,4 +1,4 @@
-module readTorrent
+module github.com/RohaanoaZoro/Read-Torrent
 
 go 1.16
 
